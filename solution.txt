@@ -1,0 +1,24 @@
+EHVSN Challenge #2: Basic cipher challenge
+Level: Beginners
+Date: 25-dec-2017
+Goal: Understand how to reverse a process of ciphering based off a source code
+
+
+Task: 
+Decode: 505 527 519 669 655 505 512 669 519 544 652 590 535 519 508 508 664 593 669 655 655
+
+
+Solution:
+1. reverse the steps
+2. step 2, rot5, can be done without any modification to the code
+3. step 1 requires changing the procedure: 
+- add 3 termination characters (]]]) instead of 1
+- read 3 characters ahead instead of 1
+- remove 3 characters from the input string
+- change the lookup table column for the value in the FOR loop
+
+
+Password:
+ASCII        : 2H@rd2Cr@ck-P@55w0rdd
+ASCII VALUES : 050 072 064 114 100 050 067 114 064 099 107 045 080 064 053 053 119 048 114 100 100
+
