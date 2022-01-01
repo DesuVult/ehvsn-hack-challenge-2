@@ -15,4 +15,4 @@ Released: 25-12-2017
 
 Cracked: 26-12-2017 
 
-Solution: https://www.youtube.com/watch?v=zQEtVqK8qQs&t=48s (Video by Conner Snowden)
+Solution: https://www.youtube.com/watch?v=zQEtVqK8qQs (Video by Conner Snowden)
